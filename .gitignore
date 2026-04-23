@@ -1,0 +1,7 @@
+# 前端项目（开源仓库，clone 到 Tools/ 下）
+/Tools/interview-forge-public/
+
+
+# OS 杂项
+.DS_Store
+Thumbs.db
